@@ -13,7 +13,7 @@ It is based on the work of rygrans https://github.com/rygorous/ryg_rans, which i
 The readme in each folder describes how to build the different parts of the project.
 
 
-The simulator is Modelsim altera starter edition.
+The simulator is Modelsim altera starter edition. In Modelsim, you must include the lpm_ver model library to run the simulation.  Click on the libraries tab after launching the simulation and use the pulldown menu to add the library.
 
 
 			
